@@ -1,0 +1,12 @@
+pandas
+numpy==1.24.4
+spacy==3.5.4
+textblob
+nltk
+gensim
+scikit-learn
+loguru
+joblib
+matplotlib
+seaborn
+wordcloud

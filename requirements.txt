@@ -1,0 +1,25 @@
+# === Core Packages ===
+pandas
+
+numpy==1.24.4
+
+# === Pretrained NLP (NER, Sentiment, etc.) ===
+spacy==3.5.4           # for NER (pretrained)
+textblob          # for basic sentiment
+nltk              # for text pre-processing + topic modeling
+gensim            # for LDA topic modeling
+
+# === ML Models (simple classifier) ===
+scikit-learn
+
+# === Logging / Utility ===
+loguru
+joblib            # to save/load classifier model (if needed)
+
+# === Visuals ===
+matplotlib
+seaborn
+wordcloud         # for topic modeling visuals
+
+# === Install local package in editable mode ===
+# -e .

@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: AgenticLoanConnect
+Version: 0.0.1
+Author: Miracle
+Author-email: <basseymiracleosa@gmail.com>
+Requires-Dist: pandas
+Requires-Dist: numpy==1.24.4
+Requires-Dist: spacy==3.5.4
+Requires-Dist: textblob
+Requires-Dist: nltk
+Requires-Dist: gensim
+Requires-Dist: scikit-learn
+Requires-Dist: loguru
+Requires-Dist: joblib
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: wordcloud
