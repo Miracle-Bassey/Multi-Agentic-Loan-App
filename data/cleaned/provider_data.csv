@@ -1,0 +1,11 @@
+Provider,Min_Credit_Score,Max_DTI,Min_Loan_Amount,Max_Loan_Amount,Supported_Topics,Sentiment_Required
+BrightStart Capital,620,35,10000,300000,"['Business & Income-Generating', 'Investments & Portfolios']",positive
+CareEase Microloans,600,49,500,10000,"['Essential & Personal Expenses', 'Household & Family Needs']",any
+SkillBridge Finance,580,40,1500,25000,"['Investments & Portfolios', 'Business & Income-Generating']",neutral
+GreenLeaf Lending,700,25,25000,150000,"['Household & Family Needs', 'Investments & Portfolios']",positive
+QuickRelief Loans,480,60,100,3000,['Essential & Personal Expenses'],any
+SafePaw Credit,560,45,500,8000,"['Pet-Related Expenses', 'Lifestyle or Outliers']",any
+EduWise Foundation,630,30,2000,40000,"['Investments & Portfolios', 'Household & Family Needs']",positive
+MomentumBridge Capital,650,30,10000,100000,"['Business & Income-Generating', 'Investments & Portfolios']",positive
+FamilyFirst Microfinance,540,50,1500,20000,"['Household & Family Needs', 'Essential & Personal Expenses']",any
+HopeLine Credit Union,500,60,200,5000,"['Lifestyle or Outliers', 'Essential & Personal Expenses']",negative
